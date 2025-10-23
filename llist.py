@@ -1,3 +1,9 @@
+"""
+Filename:llist.py
+Author: <McDougal, Owen>
+Created: <10/23/2025>
+Instructor: Holtslander
+"""
 from node import Node
 class LList:
     def __init__(self):

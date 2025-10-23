@@ -1,3 +1,9 @@
+"""
+Filename:mode.py
+Author: <McDougal, Owen>
+Created: <10/23/2025>
+Instructor: Holtslander
+"""
 class Node:
     def __init__(self, data, next=None):
         self._data = data
