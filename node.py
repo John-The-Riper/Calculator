@@ -1,5 +1,5 @@
 """
-Filename:mode.py
+Filename:node.py
 Author: <McDougal, Owen>
 Created: <10/23/2025>
 Instructor: Holtslander
